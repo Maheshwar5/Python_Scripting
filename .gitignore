@@ -1,0 +1,4 @@
+# ignoring the following files, which are not needed in git
+.idea/
+venv/
+Python_Scripting.iml
